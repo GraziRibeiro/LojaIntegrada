@@ -28,3 +28,15 @@
 
 7. Para executar em modo headless:
     npx cypress run
+
+
+### Casos de Testes ###
+ 1. Ir ate o menu da Wiki
+ 2. Acessar a página de Casos de testes
+
+
+### Evidências ###
+
+1 . Ir ate a Wiki
+2 . Clicar no Link das Evidências
+3 . Baixar na Máquina
