@@ -21,7 +21,7 @@
 
     npm init
     npm install --yes
-    npm install cypress@6.3.0 --save-dev
+    npm install cypress --save-dev
 
 6. Iniciar o Cypress no navegador
    npx cypress open
